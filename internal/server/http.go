@@ -1,4 +1,3 @@
-// START: newhttpserver
 package server
 
 import (
